@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pisswasser
-- 👀 I’m interested in programming and making websites! :D
-- 🌱 I’m currently learning mathematics!
-- 💞️ I’m looking to collaborate on python projects.
-- 📫 How to reach me : https://t.me/pisswasser
+- 👀 I’m interested in nothing.
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me : don't reach me.
 
 <!---
 Pisswasser/Pisswasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
